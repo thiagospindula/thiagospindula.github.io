@@ -59,7 +59,7 @@ p.lead {
   height: 3.5rem;
   width: 3.5rem;
   background-color: #495057;
-  color: #fff !important;
+  color: rgb(255, 255, 255) !important;
   border-radius: 100%;
   text-align: center;
   font-size: 1.5rem;
@@ -72,7 +72,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #BD5D38;
+  background-color: rgb(2, 10, 83);
 }
 
 .dev-icons {
@@ -80,7 +80,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #BD5D38;
+  color: rgb(2, 10, 83);
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -90,7 +90,7 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  outline-color: rgb(2, 10, 83);
 }
 
 @media (min-width: 992px) {
@@ -160,15 +160,15 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: rgb(2, 10, 83) !important;
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: rgb(2, 10, 83) !important;
 }
 
 a {
-  color: #BD5D38;
+  color: rgb(2, 10, 83);
 }
 
 a:hover, a:focus, a:active {
